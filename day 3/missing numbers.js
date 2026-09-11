@@ -1,5 +1,7 @@
-let numbers = [1, 2, 3, 4, 6, 7, 8, 9, 10];
-let total = 10;
+let numbers = Array.from({ length: 100 }, (_, index) => index + 1).filter(
+  (number) => number !== 57,
+);
+let total = 100;
 let expectedSum = 0;
 let actualSum = 0;
 for (let number = 1; number <= total; number++) {
