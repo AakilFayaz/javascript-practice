@@ -14,3 +14,4 @@ for (let i = 1; i < numbers.length; i++) {
 }
 console.log("Smallest number is:", smallest);
 console.log("Largest number is:", largest);
+// find largest and smallest number in unsorted array

@@ -7,3 +7,4 @@ for (let i = 0; i < arr.length; i++) {
     }
   }
 }
+// it checks pairs of arr is equal to target
