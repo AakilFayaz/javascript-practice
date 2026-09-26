@@ -15,5 +15,4 @@ for (let i = 0; i < word.length; i++) {
 }
 
 console.log(firstnonrepeatedchar);
-console.log(firstnonrepeatedchar);
 // it only prints first non repeated character in the string
